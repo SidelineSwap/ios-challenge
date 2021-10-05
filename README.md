@@ -31,11 +31,13 @@
 
 ## Public API
 
+__Request__
+
 ```text
 GET https://api.sidelineswap.com/v2/facet_items?q=nike%20bag&page=2
 ```
 
-Response
+__Response__
 
 ```json
 {
